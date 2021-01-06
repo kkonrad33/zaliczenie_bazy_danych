@@ -1,0 +1,2 @@
+Baza danych wypożyczalni filmowej. Przechowuje dane na temat filmów, klientów, pracowników i zamówień.
+Pozwala na monitorowanie pracy wypożyczalni i zarządzanie nią.
